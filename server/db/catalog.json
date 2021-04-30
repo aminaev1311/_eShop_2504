@@ -1,0 +1,65 @@
+[
+  {
+    "id_product": 1,
+    "product_name": "Мышка",
+    "price": 100,
+    "warranty": "1 year",
+    "manufacturer": "Bosch",
+    "weight": "50 gr",
+    "size": "10cm x 20cm x 30cm"
+  },
+  {
+    "id_product": 2,
+    "product_name": "Клавиатура",
+    "price": 200,
+    "warranty": "1 year",
+    "manufacturer": "Siemens",
+    "weight": "1000 gr",
+    "size": "10cm x 20cm x 30cm"
+  },
+  {
+    "id_product": 3,
+    "product_name": "Колонки",
+    "price": 130,
+    "warranty": "1 year",
+    "manufacturer": "Asus",
+    "weight": "50 gr",
+    "size": "10cm x 20cm x 30cm"
+  },
+  {
+    "id_product": 4,
+    "product_name": "Наушники",
+    "price": 150,
+    "warranty": "1 year",
+    "manufacturer": "JBL",
+    "weight": "50 gr",
+    "size": "10cm x 20cm x 30cm"
+  },
+  {
+    "id_product": 5,
+    "product_name": "Ноутбук",
+    "price": 400,
+    "warranty": "1 year",
+    "manufacturer": "Apple",
+    "weight": "50 gr",
+    "size": "10cm x 20cm x 30cm"
+  },
+  {
+    "id_product": 6,
+    "product_name": "Коврик",
+    "price": 150,
+    "warranty": "1 year",
+    "manufacturer": "China corp",
+    "weight": "50 gr",
+    "size": "10cm x 20cm x 30cm"
+  },
+  {
+    "id_product": 7,
+    "product_name": "Кресло",
+    "price": 160,
+    "warranty": "1 year",
+    "manufacturer": "Delux furniture",
+    "weight": "50 gr",
+    "size": "10cm x 20cm x 30cm"
+  }
+]
